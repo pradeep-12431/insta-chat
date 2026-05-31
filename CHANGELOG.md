@@ -9,4 +9,3 @@ git add .
 
 git commit -m "Add inline documentation"
 
-git push origin main
