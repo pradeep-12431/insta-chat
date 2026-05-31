@@ -4,4 +4,3 @@
 - Initial release
 git add .
 git commit -m "Add security policy"
-g
