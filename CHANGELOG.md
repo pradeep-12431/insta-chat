@@ -3,6 +3,6 @@
 ## v1.0
 - Initial release
 git add .
-git commit -m "Add input validation
+git commit -m "Add input validat
 
 
