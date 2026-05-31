@@ -6,5 +6,5 @@
 
 
 git add .
-git commit -m “Add typing indic
+git commit -m “Add typing 
  
