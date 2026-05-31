@@ -4,5 +4,5 @@
 - Initial release
 git add .
 git commit -m "Add input validation"
-git push ori
+git push 
 
