@@ -5,3 +5,6 @@
 
 
 
+git add .
+git commit -m “Add typing indicator feature”
+git push origin main
