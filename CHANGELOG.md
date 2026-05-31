@@ -7,4 +7,4 @@
 
 git add .
 git commit -m “Add typing indicator feature”
-git push ori 
+git push 
