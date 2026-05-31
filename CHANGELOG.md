@@ -6,5 +6,4 @@
 
 
 git add .
-git
  
