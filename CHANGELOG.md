@@ -6,3 +6,9 @@
 
 
  
+
+git add .
+
+git commit -m "Update project dependencies"
+
+git push origin main
