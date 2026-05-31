@@ -5,5 +5,9 @@
 
 
 
+git add .
 
+git commit -m "Optimize frontend rendering"
+
+git push origin main
  
