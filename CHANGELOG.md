@@ -6,5 +6,5 @@
 
 
 git add .
-git commit -m “Add typing indicator 
+git commit -m “Add typing indic
  
