@@ -6,5 +6,5 @@
 
 
 git add .
-git commit -m “Add typing 
+git commit -m “Add
  
